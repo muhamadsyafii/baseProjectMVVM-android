@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Secode_Base.iml" filepath="$PROJECT_DIR$/.idea/modules/Secode_Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Secode_Base.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Secode_Base.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Secode_Base.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Secode_Base.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Secode_Base.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Secode_Base.domain.iml" />
+    </modules>
+  </component>
+</project>
